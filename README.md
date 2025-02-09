@@ -49,12 +49,12 @@ Gitとは、ファイルやフォルダのスナップショットを保存す�
 
 #### 特定のコミットやブランチ間の差分を比較
 1. 比較対象のコミットのハッシュ値 or ブランチ名を確認します
-1. https://github.com/tanakaskas/escape-from-a-sweets-shop/compare を開きます
+1. https://github.com/tsubasakawai3/escape-from-a-sweets-shop/compare を開きます
 1. 比較対象を入力します
     - UIから操作する場合はプルダウンからブランチを選びます  
 ![compare](./images/compare.png)
     - コミットを比較する場合や、URLで操作する場合は比較対象を`.`で繋いで入力します
-        - 例: `https://github.com/tanakaskas/escape-from-a-sweets-shop/compare/${ハッシュ値1}...${ハッシュ値2}`
+        - 例: `https://github.com/tsubasakawai3/escape-from-a-sweets-shop/compare/${ハッシュ値1}...${ハッシュ値2}`
 
 ##### Two dot diff と Tree dot diff
 差分の確認方法には、Two dotとThree dotの2種類があります
